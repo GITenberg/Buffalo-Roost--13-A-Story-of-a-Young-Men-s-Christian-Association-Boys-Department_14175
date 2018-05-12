@@ -1,0 +1,28 @@
+_repo: Buffalo-Roost--13-A-Story-of-a-Young-Men-s-Christian-Association-Boys-Department_14175
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cheley, Frank H. (Frank Howbert)
+    alias: Cheley, F. H. (Frank Howbert)
+    birthdate: 1889
+    deathdate: 1941
+    gutenberg_agent_id: '5395'
+    url: http://www.gutenberg.org/2009/agents/5395
+description: ''
+gutenberg_issued: '2004-11-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14175'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Young men''s Christian associations -- Fiction'
+- !lcsh 'Christian fiction'
+- !lcc 'PS'
+title: "Buffalo Roost\r\nA Story of a Young Men's Christian Association Boys' Department"
+url: http://www.gutenberg.org/ebooks/14175
