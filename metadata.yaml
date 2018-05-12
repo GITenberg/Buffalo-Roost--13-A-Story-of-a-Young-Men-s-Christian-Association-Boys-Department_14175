@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '5395'
     url: http://www.gutenberg.org/2009/agents/5395
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14175#Buffalo-Roost--13-A-Story-of-a-Young-Men-s-Christian-Association-Boys-Department
 gutenberg_issued: '2004-11-27'
 gutenberg_type: Text
 identifiers:
